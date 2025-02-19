@@ -66,6 +66,7 @@ dependencies {
     // Retrofit
     implementation (libs.retrofit)
     implementation (libs.converter.gson)
+    implementation (libs.logging.interceptor)
 
     // Gson para la conversión automática de JSON a objetos de Kotlin
     implementation (libs.gson)
