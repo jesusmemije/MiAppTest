@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mi AppTest"
+rootProject.name = "PokedexApp"
 include(":app")
  
